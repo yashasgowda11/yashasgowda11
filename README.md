@@ -82,9 +82,9 @@ Previously **4 years at Amazon** building petabyte-scale recommendation systems,
 
 ## 📫 Let's Connect
 
-- 📧 [yashasnagesh@mycvcareer.com](mailto:yashasnagesh@mycvcareer.com)
+- 📧 [yashasnageshgowda.11@gmail.com](mailto:yashasnageshgowda.11@gmail.com])
 - 📞 +1 (786) 588-3118
-- 💼 [LinkedIn](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yashasngowda11/)
 - 🌐 [Portfolio](#)
 
 ---
