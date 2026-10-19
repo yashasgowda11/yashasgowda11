@@ -721,9 +721,8 @@ async function downloadResume(){
   // downloads — no resume embedded, open mailto for now
   function downloadResume() {
   const link = document.createElement("a");
-
   link.href = "./resume/Yashas_Nagesh_Gowda_MLResume.pdf";
-  link.download = "Yashas_Nagesh_Gowda_Resume.pdf";
+  link.download = "Yashas_Nagesh_Gowda_MLResume.pdf";
 
   document.body.appendChild(link);
   link.click();
